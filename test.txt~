@@ -1,0 +1,6 @@
+Git working test.
+<<<<<<< HEAD
+test 2
+=======
+SSH key test.
+>>>>>>> b0a8697e28729a9259a82a643d014088ae6b333c
